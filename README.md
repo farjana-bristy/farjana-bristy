@@ -1,4 +1,4 @@
-![Alt Text](assets/image.jpeg)
+![Alt Text](assets/image.jpg)
 
 <h1 align="center">Hi 👋, I'm Khadeja Farjana Bristi</h1>
 <h3 align="center">A passionate Project Manager from Bangladesh</h3>
@@ -24,6 +24,14 @@ With hands-on experience in Agile methodologies, cross-functional team leadershi
 ## 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,html,css,php,js,mysql,git,github,arduino)](https://skillicons.dev)
+
+## 🏅 Certifications
+
+[![Microsoft](https://img.shields.io/badge/Microsoft-Understand%20Data%20Science-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/)
+[![Google](https://img.shields.io/badge/Coursera-Data%20Foundations-blue?style=for-the-badge&logo=google)](https://www.coursera.org/)
+[![IBM](https://img.shields.io/badge/Coursera-Data%20Analysis%20with%20Python-blue?style=for-the-badge&logo=ibm)](https://www.coursera.org/)
+[![Forage](https://img.shields.io/badge/Forage-Data%20Science%20Simulation-yellow?style=for-the-badge&logo=forage)](https://www.theforage.com/)
+
 
 ## 🔗Socials Links
 
