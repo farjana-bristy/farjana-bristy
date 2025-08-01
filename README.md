@@ -10,7 +10,7 @@ With hands-on experience in Agile methodologies, cross-functional team leadershi
 
 - 👨‍💻 All of my projects are available at [https://github.com/farjana-bristy](https://github.com/farjana-bristy)
 
-- 💬 Ask me about **Project Management**git status
+- 💬 Ask me about **Project Management**
 
 
 - 📫 How to reach me **fbristy44@gmail.com**
