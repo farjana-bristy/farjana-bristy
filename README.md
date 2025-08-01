@@ -10,7 +10,8 @@ With hands-on experience in Agile methodologies, cross-functional team leadershi
 
 - 👨‍💻 All of my projects are available at [https://github.com/farjana-bristy](https://github.com/farjana-bristy)
 
-- 💬 Ask me about **Project Management**
+- 💬 Ask me about **Project Management**git status
+
 
 - 📫 How to reach me **fbristy44@gmail.com**
 
@@ -36,10 +37,6 @@ With hands-on experience in Agile methodologies, cross-functional team leadershi
 # 💻 Projects:
 
 # Library Management System
-
-## 🔗 Live Links
-
-https://library-service-management-system.vercel.app/
 
 #### Features of the project:
 
@@ -78,3 +75,14 @@ https://library-service-management-system.vercel.app/
 - Built a reservation management platform for services or events.
 - Included user authentication, booking features, and admin approval system.
 - Enabled users to check availability and modify reservations.
+
+# Electricity Billing System
+
+#### Features of the project:
+
+- Developed a system to calculate and manage electricity bills for residential and commercial users.
+- Implemented user authentication for customers and admin roles.
+- Automated bill generation based on usage with tiered pricing rates.
+- Included payment tracking and history for customers.
+- Admin dashboard to manage users, tariffs, and monitor payments.
+- Designed a clean and responsive UI for easy navigation on all devices.
