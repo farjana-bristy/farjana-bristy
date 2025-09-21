@@ -27,11 +27,15 @@ With hands-on experience in Agile methodologies, cross-functional team leadershi
 
 ## 🏅 Certifications
 
-[![Microsoft](https://img.shields.io/badge/Microsoft-Understand%20Data%20Science-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/)
-[![Google](https://img.shields.io/badge/Coursera-Data%20Foundations-blue?style=for-the-badge&logo=google)](https://www.coursera.org/)
+[![Microsoft](https://img.shields.io/badge/Microsoft-Understand%20Data%20Science%20for%20Machine%20Learning-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/)
+
+[![Google](https://img.shields.io/badge/Coursera-Foundations%3A%20Data%2C%20Data%2C%20Everywhere-blue?style=for-the-badge&logo=google)](https://www.coursera.org/learn/foundations-data)
+
 [![IBM](https://img.shields.io/badge/Coursera-Data%20Analysis%20with%20Python-blue?style=for-the-badge&logo=ibm)](https://www.coursera.org/)
-[![Forage](https://img.shields.io/badge/Forage-Data%20Science%20Simulation-yellow?style=for-the-badge&logo=forage)](https://www.theforage.com/)
-[![Coursera](https://img.shields.io/badge/Coursera-Machine%20Learning%20with%20Python-blue?style=for-the-badge&logo=coursera)](https://coursera.org/share/40da9ea16ca240cb644b3d06548417f5)
+
+[![Forage](https://img.shields.io/badge/Forage-Intro%20to%20Data%20Science%20Job%20Simulation%20(CBA)-yellow?style=for-the-badge&logo=forage)](https://www.theforage.com/)
+
+[![Coursera](https://img.shields.io/badge/Coursera-Technical%20Support%20Fundamentals-blue?style=for-the-badge&logo=coursera)](https://coursera.org/share/40da9ea16ca240cb644b3d06548417f5)
 
 
 
