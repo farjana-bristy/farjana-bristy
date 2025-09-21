@@ -31,6 +31,8 @@ With hands-on experience in Agile methodologies, cross-functional team leadershi
 [![Google](https://img.shields.io/badge/Coursera-Data%20Foundations-blue?style=for-the-badge&logo=google)](https://www.coursera.org/)
 [![IBM](https://img.shields.io/badge/Coursera-Data%20Analysis%20with%20Python-blue?style=for-the-badge&logo=ibm)](https://www.coursera.org/)
 [![Forage](https://img.shields.io/badge/Forage-Data%20Science%20Simulation-yellow?style=for-the-badge&logo=forage)](https://www.theforage.com/)
+[![Coursera](https://img.shields.io/badge/Coursera-Machine%20Learning%20with%20Python-blue?style=for-the-badge&logo=coursera)](https://coursera.org/share/40da9ea16ca240cb644b3d06548417f5)
+
 
 
 ## 🔗Socials Links
