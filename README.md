@@ -23,7 +23,7 @@ With hands-on experience in Agile methodologies, cross-functional team leadershi
 
 ## 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,mysql,html,php,css,js,excel,pandas,numpy,matplotlib,git,github,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,mysql,html,php,css,js,git,github,arduino)](https://skillicons.dev)
 
 
 ## 🏅 Certifications
