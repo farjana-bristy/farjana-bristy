@@ -47,6 +47,12 @@ With hands-on experience in Agile methodologies, cross-functional team leadershi
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farjana-bristy)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_farjana_bristi_)
 
+## 📄 Publications  
+
+- **A Machine Learning Approach for Heart Disease Prediction: Model Comparison and Analysis**  
+  *Preprint on Zenodo*, 2025  
+ [🔗 View Publication (DOI)](https://doi.org/10.5281/zenodo.17169393)
+
 
 
 # 💻 Projects:
