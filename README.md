@@ -15,7 +15,7 @@ With hands-on experience in Agile methodologies, cross-functional team leadershi
 
 - 📫 How to reach me **fbristy44@gmail.com**
 - My Portfolio
-  **https://farjana bristi.vercel.app/**
+  **https://farjana -bristi.vercel.app/**
 
 ## 📊 Current Status
 
